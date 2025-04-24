@@ -1,0 +1,1 @@
+export type WritingStyle = 'professional' | 'casual' | 'formal';
