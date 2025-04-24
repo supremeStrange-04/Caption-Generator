@@ -44,7 +44,7 @@ A modern and interactive caption generator that uses the **Gemini API** to gener
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/caption-generator.git
+git clone https://github.com/supremeStrange-04/Caption-Generator.git
 cd caption-generator
 
 # 2. Install dependencies
