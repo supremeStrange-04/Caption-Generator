@@ -1,10 +1,9 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Toaster } from "react-hot-toast";
 import { AnimatePresence, motion } from "framer-motion";
 import { Sun, Moon } from "lucide-react";
 import CaptionGenerator from "./components/CaptionGenerator";
 import CaptionCard from "./components/CaptionCard";
-import Footer from "./components/Footer";
 import { Caption } from "./types/Caption";
 
 function App() {
