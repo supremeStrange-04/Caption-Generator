@@ -29,7 +29,8 @@ A modern and interactive caption generator that uses the **Gemini API** to gener
 
 ## 📸 UI Preview
 
-> Add screenshots or a GIF of your app here
+> ![Caption Generator](https://github.com/user-attachments/assets/ef80efbd-5414-43b4-b725-5bd51cd664f1)
+
 
 ---
 
